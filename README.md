@@ -96,10 +96,7 @@ npm run dev
 - Manejo de errores en cada capa de la aplicación
 - Código modular y reutilizable
 
-## 📚 Recursos Adicionales
-- [Documentación de React](https://reactjs.org/docs)
-- [Guía de Tailwind CSS](https://tailwindcss.com/docs)
-- [JSONPlaceholder API](https://jsonplaceholder.typicode.com)
+
 
 ## 👥 Autor
 - [Ara Fernández](https://github.com/username)
